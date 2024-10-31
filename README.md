@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Olá! Sou Fernando, um desenvolvedor apaixonado por C# e .NET.
 
-<!--
-**FJdevdev/FJdevdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente, estou explorando o desenvolvimento de aplicações robustas e escaláveis, sempre em busca de melhorar minhas habilidades e aprender novas tecnologias.
 
-Here are some ideas to get you started:
+🚀 Nos meus projetos, gosto de aplicar boas práticas de programação e contribuir para a comunidade open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Sempre em busca de novos desafios, estou aberto a colaborações e discussões sobre desenvolvimento de software.
+
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandojorge10/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-jorge-98598220b/)
+
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=FJdevdev&show_icons=true&theme=tokyonight)
+<div style="display: inline-block;"><br>
+        <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+        <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+        <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HMTL">
+        <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    </div>
