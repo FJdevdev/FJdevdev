@@ -1,4 +1,4 @@
-## 👋 Olá! Sou Fernando, um desenvolvedor apaixonado por C# e .NET.
+## 👋 Olá! Sou Fernando, um desenvolvedor apaixonado por programação.
 
 💻 Atualmente, estou explorando o desenvolvimento de aplicações robustas e escaláveis, sempre em busca de melhorar minhas habilidades e aprender novas tecnologias.
 
