@@ -10,6 +10,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-jorge-98598220b/)
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=FJdevdev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FJdevdev&theme=tokyonight&layout=compact)
 
 <div style="display: inline-block;"><br>
         <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HMTL">
